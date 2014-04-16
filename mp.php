@@ -1,11 +1,10 @@
 <?php
 /*
-Plugin Name: Название плагина
-Plugin URI: http://страница_с_описанием_плагина_и_его_обновлений
-Description: Краткое описание плагина.
-Version: Номер версии плагина, например: 1.0
-Author: Имя автора плагина
-Author URI: http://страница_автора_плагина
+Plugin Name: Magnific Popup by CasePress
+Plugin URI: https://github.com/casepress-studio/Magnific-Popup-CasePress/
+Description: Simple lightbox based on https://github.com/dimsemenov/Magnific-Popup
+Author: CasePress Studio
+Author URI: http://casepress.org
 */
 
 
